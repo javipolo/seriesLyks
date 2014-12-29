@@ -14,7 +14,9 @@ La copia es parcial porque se ha hecho contrareloj y bajo un proceso de ingenier
 + Durante estos días de navidad el tráfico ha sido intenso.
 + Que probablemente ellos hayan estado toqueteando el servidor de forma intensa en las últimas semanas.
 + Que no he estado todo lo diestro que debía con el código.
+
 Por todo lo anterior y como advertencia -> Mas se perdió en la guerra.
+
 Asi que el aviso queda dejado. Es una copia parcial.
 
 
