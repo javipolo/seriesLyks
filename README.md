@@ -1,4 +1,4 @@
-Qué.Es.Esto: seriesLyks a.k.a. seriesLeaks
+Qué.Es.Esto: seriesLyks (seriesLeaks)
 =========================================
 
 Una copia parcial de los enlaces alojados hasta el 29.12 en series.ly y que fueron retirados por la reforma de la Ley de Propiedad Intelectual.
