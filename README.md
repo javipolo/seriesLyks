@@ -1,11 +1,5 @@
-seriesLyks (seriesLeaks)
-==========
-
-A partial dump of series.ly before it removed all the links because of new Spanish's laws (known as #TasaGoogle)
-
-
-Qué.Es.Esto
-===========
+Qué.Es.Esto: seriesLyks a.k.a. seriesLeaks
+=========================================
 
 Una copia parcial de los enlaces alojados hasta el 29.12 en series.ly y que fueron retirados por la reforma de la Ley de Propiedad Intelectual.
 Motivos del cierre aquí: http://blog.series.ly/2014/12/serieslysigue.html
