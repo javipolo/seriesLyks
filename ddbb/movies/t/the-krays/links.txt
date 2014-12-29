@@ -1,0 +1,4 @@
+/scripts/info/ganaPuntos.php?ref=nopoints&e=802&mediaType=2
+/scripts/info/invalid_link.php
+http://played.to/vjujxwvqnpte
+http://vimple.ru/638d2683b86e46c5b9742e83d9cc301d

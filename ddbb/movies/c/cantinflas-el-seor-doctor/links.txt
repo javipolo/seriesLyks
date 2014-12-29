@@ -1,0 +1,14 @@
+/scripts/info/ganaPuntos.php?ref=nopoints&e=802&mediaType=2
+http://youtube.com/watch?v=WAbKNuUAsqA
+http://youtube.com/watch?v=D-tB7aCxhCc
+http://youtube.com/watch?v=57wGurmOj4A
+http://youtube.com/watch?v=bN3IzIQRU2I
+/scripts/info/invalid_link.php
+http://youtube.com/watch?v=iR79Kp9ifBs
+http://youtube.com/watch?v=BikefsiRAXY
+http://youtube.com/watch?v=gguw5yNYqLU
+http://youtube.com/watch?v=0XYE3FLG5CI
+http://youtube.com/watch?v=MSbQCUNdJJo
+http://youtube.com/watch?v=iPLH_OBOHBM
+http://youtube.com/watch?v=LH-fXRqaMFM
+http://youtube.com/watch?v=WXcpstiBKJw

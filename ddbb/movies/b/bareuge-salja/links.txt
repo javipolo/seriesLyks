@@ -1,0 +1,11 @@
+/scripts/info/invalid_link.php
+http://youtube.com/watch?v=Of7ZpCR_6RY
+http://youtube.com/watch?v=v0V80VpaAV0
+http://youtube.com/watch?v=kT_yVv-qkvU
+http://youtube.com/watch?v=_GgoFSflS7c
+http://youtube.com/watch?v=CfGQOH9l8js
+http://youtube.com/watch?v=QbESJlsWxbI
+http://youtube.com/watch?v=aWwLRh6BG4s
+http://youtube.com/watch?v=YM08BC38KU8
+http://youtube.com/watch?v=rzP-wPvad0U
+http://dfiles.eu/files/vq3e3m5f5

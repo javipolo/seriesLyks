@@ -1,0 +1,4 @@
+/scripts/info/invalid_link.php
+http://vk.com/video_ext.php?oid=164904740&id=167522449&hash=a24c62c85e70b7c2&hd=2
+http://youtube.com/watch?v=SZMe09ZG30k
+http://firedrive.com/file/2AAF1295EF842F16

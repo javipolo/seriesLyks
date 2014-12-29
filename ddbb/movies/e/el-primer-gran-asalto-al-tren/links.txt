@@ -1,0 +1,2 @@
+/scripts/info/invalid_link.php
+http://vk.com/video_ext.php?oid=184324965&id=165455125&hash=fa25009003141d04&hd=1

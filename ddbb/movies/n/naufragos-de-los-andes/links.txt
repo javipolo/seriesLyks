@@ -1,0 +1,5 @@
+/scripts/info/invalid_link.php
+http://youtube.com/watch?v=LfhfoFz1EVY
+http://youtube.com/watch?v=iBow86YorGs
+http://stagevu.com/video/aeujvooytqux
+http://youtube.com/watch?v=NSmObhbv-24

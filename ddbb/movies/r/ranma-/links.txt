@@ -1,0 +1,3 @@
+/scripts/info/invalid_link.php
+http://vk.com/video_ext.php?oid=203245606&id=165911402&hash=24367d44638477d4&hd=1
+http://dailymotion.com/video/xn95xj_esp-ranma-1-2-parte-1

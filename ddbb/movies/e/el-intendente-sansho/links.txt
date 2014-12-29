@@ -1,0 +1,7 @@
+/scripts/info/invalid_link.php
+http://youtube.com/watch?v=6UryngAJYEQ
+/scripts/info/ganaPuntos.php?ref=nopoints&e=802&mediaType=2
+http://vk.com/video_ext.php?oid=168453051&id=163621575&hash=b7585d27368750f7&hd=1
+http://mega.co.nz/#!lI8Wgb6I!ThWrtloiD5sXRpuNCH5OKVE3hCc4FaOLJsMeWzqHSLA
+http://dfiles.eu/files/4a8ngl7dp
+http://bitshare.com/?f=gtklm731

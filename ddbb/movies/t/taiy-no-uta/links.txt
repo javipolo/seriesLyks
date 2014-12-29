@@ -1,0 +1,4 @@
+/scripts/info/ganaPuntos.php?ref=nopoints&e=802&mediaType=2
+/scripts/info/invalid_link.php
+http://stagevu.com/video/ezlcutmelxpb
+http://vk.com/video_ext.php?oid=178325912&id=164374867&hash=bfa9d6146db267f6&hd=1

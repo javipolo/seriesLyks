@@ -1,0 +1,4 @@
+/scripts/info/ganaPuntos.php?ref=nopoints&e=802&mediaType=2
+http://vk.com/video_ext.php?oid=161417976&id=167663903&hash=b7974b05eb02ca81&hd=1
+http://streamcloud.eu/o3zlt9st3jel
+/scripts/info/invalid_link.php

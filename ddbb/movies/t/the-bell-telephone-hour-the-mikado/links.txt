@@ -1,0 +1,4 @@
+/scripts/info/ganaPuntos.php?ref=nopoints&e=802&mediaType=2
+/scripts/info/invalid_link.php
+http://vk.com/video_ext.php?video5337822_159162878?noiphone
+http://vk.com/video_ext.php?video-12898574_137824858?noiphone

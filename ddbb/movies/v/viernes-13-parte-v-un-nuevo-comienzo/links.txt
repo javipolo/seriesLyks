@@ -1,0 +1,4 @@
+/scripts/info/ganaPuntos.php?ref=nopoints&e=802&mediaType=2
+/scripts/info/invalid_link.php
+http://streamcloud.eu/0gd892k7c0ne
+http://sockshare.com/file/07A7C94D2EBB163F

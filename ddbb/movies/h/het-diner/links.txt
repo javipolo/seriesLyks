@@ -1,0 +1,4 @@
+/scripts/info/ganaPuntos.php?ref=nopoints&e=802&mediaType=2
+/scripts/info/invalid_link.php
+http://sockshare.com/file/479D75E2B59879D4
+http://uploaded.to/file/9be7n297

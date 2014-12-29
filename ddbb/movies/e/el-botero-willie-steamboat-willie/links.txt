@@ -1,0 +1,11 @@
+/scripts/info/invalid_link.php
+http://youtube.com/watch?v=Zq0e4WjL7G0
+http://youtube.com/watch?v=7NQyzcDnMdE
+http://vimeo.com/48709307
+http://youtube.com/watch?v=_oveNzcrf5c
+http://youtube.com/watch?v=m0wUPxByNK8
+http://dailymotion.com/video/x7g7dq_steamboat-willie-1928_shortfilms?start=0
+http://dailymotion.com/video/x17xnis_67-04x011fun
+http://youtube.com/watch?v=j__xm48dbfA
+http://youtube.com/watch?v=ogI0kvc5Vw0
+http://dailymotion.com/video/x17xnis_67-04x05_fun

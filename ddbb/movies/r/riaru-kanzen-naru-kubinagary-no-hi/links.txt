@@ -1,0 +1,2 @@
+/scripts/info/invalid_link.php
+http://played.to/u59sokfn3b1n

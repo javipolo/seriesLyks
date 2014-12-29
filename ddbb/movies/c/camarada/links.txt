@@ -1,0 +1,3 @@
+/scripts/info/invalid_link.php
+/scripts/info/invalid_link.php
+http://bitshare.com/?f=af9yqy3l

@@ -1,0 +1,3 @@
+/scripts/info/invalid_link.php
+http://firedrive.com/file/912E3E9B230ED8B7#
+http://sockshare.com/file/2A834C4F9FE90CB3

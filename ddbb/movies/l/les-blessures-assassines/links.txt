@@ -1,0 +1,6 @@
+/scripts/info/invalid_link.php
+http://firedrive.com/file/DF40FE66E478F3A0
+http://firedrive.com/file/5A962B925775E74F
+http://sockshare.com/file/5F4CC2626AB3436E
+http://sockshare.com/file/471C4639A1A385B7
+http://sockshare.com/file/B283BAE75830FB67

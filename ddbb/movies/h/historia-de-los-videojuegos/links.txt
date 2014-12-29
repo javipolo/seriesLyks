@@ -1,0 +1,7 @@
+/scripts/info/invalid_link.php
+http://youtube.com/watch?v=DCR8t7YWR-A
+http://vk.com/video_ext.php?oid=168012492&id=164270636&hash=de17f297de18f7c7&hd=1
+http://youtube.com/watch?v=GWHhvIFN_cg
+http://youtube.com/watch?v=6pWEU9_Vn24
+http://youtube.com/watch?v=dbhcUnyUhg0
+http://rapidgator.net/file/c4e965c3fa066679c5195e665622ada5/Historia_de_los_Videojuegos_

@@ -1,0 +1,4 @@
+/scripts/info/invalid_link.php
+http://www.nowvideo.eu/video/70b35a69b82a9
+http://firedrive.com/file/B600CD605FC4FC17
+http://firedrive.com/file/6C51AF2E1A0F8BDB

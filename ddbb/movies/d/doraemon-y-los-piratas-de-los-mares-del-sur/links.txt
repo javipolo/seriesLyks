@@ -1,0 +1,7 @@
+/scripts/info/invalid_link.php
+http://youtube.com/watch?v=XtRL16jkC5E
+http://uploaded.to/file/u3eixxpk
+http://freakshare.com/files/9f4jdd3v/Doraemon.Piratas.Mares.Sur.DVDRip.Castellano.mp4.html
+http://uploaded.to/file/9kom5b5v
+http://uploaded.to/file/twnze7gg
+http://freakshare.com/files/953evmms/Doraemon.Piratas.Mares.Sur.DVDRip.Castellano.mp4.html

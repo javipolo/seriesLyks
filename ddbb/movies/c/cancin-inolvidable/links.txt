@@ -1,0 +1,9 @@
+/scripts/info/invalid_link.php
+http://youtube.com/watch?v=KWhwEbTtok4
+http://youtube.com/watch?v=qVQMXldFWGI
+http://youtube.com/watch?v=H4_E5phHYqU
+http://youtube.com/watch?v=BgAjnTEE0Zo
+http://streamcloud.eu/v6jraxauvam4
+http://youtube.com/watch?v=D7oNOgcci5w
+http://youtube.com/watch?v=c-P6dC7gC1E
+http://youtube.com/watch?v=-3Jj3Gvo4iI

@@ -1,0 +1,3 @@
+/scripts/info/invalid_link.php
+http://sockshare.com/file/E2ABF1281753DF77
+http://sockshare.com/file/23181A6C66B3263B

@@ -1,0 +1,5 @@
+/scripts/info/ganaPuntos.php?ref=nopoints&e=802&mediaType=2
+/scripts/info/invalid_link.php
+http://tu.tv/videos/mio-min-mio-parte-2
+http://youtube.com/watch?v=cSRi3eVNUIQ
+http://tu.tv/videos/mio-min-mio

@@ -1,0 +1,7 @@
+/scripts/info/ganaPuntos.php?ref=nopoints&e=802&mediaType=2
+/scripts/info/invalid_link.php
+http://vk.com/video_ext.php?oid=175849513&id=162959365&hash=1e34174a083e9485&hd=1%22%20width=%22607%22%20height=%22360%22%20frameborder=%220%22%3E
+http://vk.com/video_ext.php?oid=160291205&id=162998686&hash=e73108b80cac8b5e&hd=1
+http://vk.com/video_ext.php?oid=160291205&id=162998684&hash=f72047d48e93cc48&hd=1
+http://vk.com/video_ext.php?oid=178083599&id=164442147&hash=2f771fab17087525&hd=1
+http://vk.com/video_ext.php?oid=162516319&id=163197069&hash=405eaae5660289f5&hd=1

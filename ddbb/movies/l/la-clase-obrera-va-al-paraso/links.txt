@@ -1,0 +1,4 @@
+/scripts/info/invalid_link.php
+http://youtube.com/watch?v=WDyLlDtsa1U
+http://mega.co.nz/#!4wJjzLKK!Jqf11DND6BQOeI_g7TuWFmBl-nNTtXAJfofZ5-2tcvI
+http://mega.co.nz/#!kcFiWQRa!J-CIdwSjb8GMYQVvhRoZOE4WAkYLUoDlokZdQeC534U

@@ -1,0 +1,4 @@
+/scripts/info/ganaPuntos.php?ref=nopoints&e=802&mediaType=2
+/scripts/info/invalid_link.php
+http://dailymotion.com/video/x22c9go_dracula-ad-1972_shortfilms
+http://vk.com/video_ext.php?oid=170933708&id=165696426&hash=7826119692924e6e&hd=1

@@ -1,0 +1,6 @@
+/scripts/info/invalid_link.php
+http://vk.com/video_ext.php?oid=189992786&id=164219078&hash=d1c7cd2bec791014
+http://vk.com/video_ext.php?oid=185252732&id=164400282&hash=12d5dd7150297c8f&sd
+/scripts/info/invalid_link.php
+http://youtube.com/watch?v=6uxYyVp-8B8
+http://vk.com/video_ext.php?oid=240430886&id=167358052&hash=41c0fbeb2281cd3e

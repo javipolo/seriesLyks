@@ -1,0 +1,4 @@
+/scripts/info/invalid_link.php
+http://youtube.com/watch?v=TOfguh_0Ghc
+http://www.nowvideo.eu/video/53d5011561989
+http://youtube.com/watch?v=38FhuxiyRCs

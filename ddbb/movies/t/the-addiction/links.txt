@@ -1,0 +1,4 @@
+/scripts/info/invalid_link.php
+/scripts/info/invalid_link.php
+http://vk.com/video_ext.php?oid=231767284&id=168862356&hash=7822b5711f8688f2&hd=1
+http://bitshare.com/?f=fgz9uqh1

@@ -1,0 +1,4 @@
+/scripts/info/invalid_link.php
+http://vk.com/video_ext.php?oid=88678644&id=168621112&hash=f5706398ce488a0d&hd=1
+http://firedrive.com/file/4F937664D6235725
+http://sockshare.com/file/85B34D038ACA4BBC

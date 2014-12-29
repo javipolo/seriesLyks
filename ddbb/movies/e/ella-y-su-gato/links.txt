@@ -1,0 +1,4 @@
+/scripts/info/ganaPuntos.php?ref=nopoints&e=802&mediaType=2
+/scripts/info/invalid_link.php
+http://youtube.com/watch?v=iRHJ46RODMs
+http://tu.tv/videos/ella-y-su-gato-sub-espanol

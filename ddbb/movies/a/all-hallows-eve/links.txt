@@ -1,0 +1,11 @@
+/scripts/info/invalid_link.php
+http://youtube.com/watch?v=Q8ZtWzQjQrU
+http://played.to/ybekahb1eedt
+http://vk.com/video_ext.php?oid=221953042&id=166593396&hash=08e696caf8452a21&hd=1
+http://streamcloud.eu/ck5lp66e6b87
+http://youtube.com/watch?v=0kk-qJKPSSM
+http://vk.com/video_ext.php?oid=145083867&id=166864669&hash=1dee99f1fb4d785e&hd=1
+http://firedrive.com/file/17EB6312B9E3F110
+http://uploaded.to/file/vwg9n4s0
+http://uploaded.to/file/54m3phec
+http://sockshare.com/file/54442D014B7C98C4

@@ -1,0 +1,4 @@
+/scripts/info/ganaPuntos.php?ref=nopoints&e=802&mediaType=2
+/scripts/info/invalid_link.php
+http://tu.tv/videos/beyonce-i-am-world-tour-full-version
+http://youtube.com/watch?v=iYdTfQEDDfc

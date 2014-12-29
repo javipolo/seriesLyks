@@ -1,0 +1,8 @@
+/scripts/info/invalid_link.php
+http://vimeo.com/13205432
+http://dailymotion.com/video/x1szkqg_wallace-and-gromit-in-a-matter-of-loaf-and-death_shortfilms
+http://youtube.com/watch?v=gXjrsrx_HTA
+http://youtube.com/watch?v=Dd1uEcgiBK4
+http://youtube.com/watch?v=72KcPW-hDdQ
+http://youtube.com/watch?v=K9vIrTF46sQ
+http://played.to/dxncj6gqw7x4

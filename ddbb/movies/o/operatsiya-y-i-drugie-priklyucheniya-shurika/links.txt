@@ -1,0 +1,3 @@
+/scripts/info/ganaPuntos.php?ref=nopoints&e=802&mediaType=2
+/scripts/info/invalid_link.php
+http://dailymotion.com/video/x12pa46_operation-y-and-shurik-s-other-adventures-1965-pt-1_creation

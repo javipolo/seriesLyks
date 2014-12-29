@@ -1,0 +1,5 @@
+/scripts/info/ganaPuntos.php?ref=nopoints&e=802&mediaType=2
+http://www.nowvideo.eu/video/66d84a1af416c
+http://www.movshare.net/video/928370b872ffc
+http://www.novamov.com/video/6e67f0daaadb3
+/scripts/info/invalid_link.php

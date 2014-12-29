@@ -1,0 +1,3 @@
+/scripts/info/ganaPuntos.php?ref=nopoints&e=802&mediaType=2
+/scripts/info/invalid_link.php
+http://dailymotion.com/video/xxe8fr_egipto-cambio-climatico-el-colapso-de-una-civilizacion_tech

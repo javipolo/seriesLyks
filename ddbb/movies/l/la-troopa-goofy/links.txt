@@ -1,0 +1,5 @@
+/scripts/info/ganaPuntos.php?ref=nopoints&e=802&mediaType=2
+/scripts/info/invalid_link.php
+http://dailymotion.com/video/x12nmuy_tropa-goofy-1x02-recuerdos-del-porvenir_shortfilms
+http://dailymotion.com/video/x12mza5_tropa-goofy-1x01-vacaciones_shortfilms
+http://youtube.com/watch?v=f6Tkc6JRdrQ

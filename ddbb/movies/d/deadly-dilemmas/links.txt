@@ -1,0 +1,2 @@
+/scripts/info/invalid_link.php
+http://www.novamov.com/video/d270c8dc139c8

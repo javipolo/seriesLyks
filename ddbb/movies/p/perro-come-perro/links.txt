@@ -1,0 +1,5 @@
+/scripts/info/ganaPuntos.php?ref=nopoints&e=802&mediaType=2
+/scripts/info/invalid_link.php
+http://youtube.com/watch?v=H8dQ1RUb4aM
+http://vk.com/video_ext.php?oid=123235299&id=160310310&hash=f280a119e7069ddf
+http://streamcloud.eu/n78wkmm6l2ia

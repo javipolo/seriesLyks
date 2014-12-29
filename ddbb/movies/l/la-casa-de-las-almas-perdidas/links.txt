@@ -1,0 +1,4 @@
+/scripts/info/invalid_link.php
+/scripts/info/invalid_link.php
+http://vk.com/video_ext.php?oid=170489014&id=162691764&hash=ee7171e955214595&hd=2
+http://youtube.com/watch?v=Zf_3NXXog_8

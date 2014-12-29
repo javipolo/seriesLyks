@@ -1,0 +1,5 @@
+/scripts/info/ganaPuntos.php?ref=nopoints&e=802&mediaType=2
+/scripts/info/invalid_link.php
+http://vk.com/video_ext.php?oid=161548814&id=162854750&hash=3dab72b2f51b1260&hd=1%22%20width=%22607%22%20height=%22360%22%20frameborder=%220%22%3E%3C/iframe%3E
+http://vk.com/video_ext.php?oid=175849513&id=162823402&hash=e69cea7f0f2af1df&hd=1\" width=\"607\" height=\"360\" frameborder=\"0\"
+http://vk.com/video_ext.php?oid=162815335&id=162917340&hash=2aa9881ce4fd428e&hd=1

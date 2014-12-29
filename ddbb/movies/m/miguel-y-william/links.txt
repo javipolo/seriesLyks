@@ -1,0 +1,5 @@
+/scripts/info/ganaPuntos.php?ref=nopoints&e=802&mediaType=2
+/scripts/info/invalid_link.php
+http://bitshare.com/?f=kaktczqu
+http://bitshare.com/?f=m67khqo4
+http://bitshare.com/?f=htjaxbjl

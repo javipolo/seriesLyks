@@ -1,0 +1,3 @@
+/scripts/info/invalid_link.php
+http://dailymotion.com/video/xafcbl_looney-tunes-return-of-duck-dodgers_fun#.UVhr5RfjeSp
+http://youtube.com/watch?v=idB7zUnuZas

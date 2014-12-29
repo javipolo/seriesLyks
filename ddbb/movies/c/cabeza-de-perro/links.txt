@@ -1,0 +1,5 @@
+/scripts/info/ganaPuntos.php?ref=nopoints&e=802&mediaType=2
+/scripts/info/invalid_link.php
+http://vk.com/video_ext.php?oid=178001880&id=165905080&hash=0a85ac137b3f8e0d&hd=1
+http://vk.com/video_ext.php?oid=206804094&id=165421908&hash=07c56a2dda87f200&hd=1
+http://mega.co.nz/#!TMFxVKgZ!alupwRV8lajnUe06xpcxontk5vlxK_ClkUk555AdcwA

@@ -1,0 +1,7 @@
+/scripts/info/ganaPuntos.php?ref=nopoints&e=802&mediaType=2
+/scripts/info/invalid_link.php
+http://tu.tv/videos/a-moment-to-remember-1-2-pelicula-coeana
+http://vk.com/video_ext.php?oid=180847979&id=163780198&hash=60d0cd21161b5a1d&hd=1
+http://youtube.com/watch?v=Yx5xPZ9x-hI
+http://vk.com/video_ext.php?oid=180847979&id=163779625&hash=4b0e8fc39f4e8e78&hd=1
+http://vk.com/video_ext.php?oid=218095763&id=165652723&hash=a127062c58e6ed9c&hd

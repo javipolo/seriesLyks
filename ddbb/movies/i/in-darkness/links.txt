@@ -1,0 +1,10 @@
+/scripts/info/ganaPuntos.php?ref=nopoints&e=802&mediaType=2
+http://vk.com/video_ext.php?oid=163712357&id=162959422&hash=85deda071e139a5d&hd=1
+http://vk.com/video_ext.php?oid=162815335&id=162917722&hash=b8c2ff74e6029eff&hd=1
+http://vk.com/video_ext.php?oid=164730209&id=162798147&hash=304e880469e6acbe&hd=1
+/scripts/info/invalid_link.php
+http://uploaded.to/file/r9ljccb2
+http://uploaded.to/file/5pyhbz2g
+http://uploaded.to/file/5bobkpjm
+http://uploaded.to/file/bgcwu6ui
+http://uploaded.to/file/34v41wbm

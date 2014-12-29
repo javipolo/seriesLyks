@@ -1,0 +1,3 @@
+/scripts/info/invalid_link.php
+http://youtube.com/watch?v=c_JpXJZfpwU
+http://youtube.com/watch?v=fV-UsvZBoS8

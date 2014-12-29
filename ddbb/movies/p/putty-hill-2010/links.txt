@@ -1,0 +1,4 @@
+/scripts/info/ganaPuntos.php?ref=nopoints&e=802&mediaType=2
+/scripts/info/invalid_link.php
+http://firedrive.com/file/0A7E4976D9C60693
+http://firedrive.com/file/8EF7906B8F888F07

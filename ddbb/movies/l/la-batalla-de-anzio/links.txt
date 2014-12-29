@@ -1,0 +1,4 @@
+/scripts/info/ganaPuntos.php?ref=nopoints&e=802&mediaType=2
+/scripts/info/invalid_link.php
+http://freakshare.com/files/5kr51pi3/-la-batalla-de-anzio-ESP.zip.html
+http://bitshare.com/?f=rcykcmp6

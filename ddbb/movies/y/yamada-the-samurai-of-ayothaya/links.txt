@@ -1,0 +1,10 @@
+/scripts/info/ganaPuntos.php?ref=nopoints&e=802&mediaType=2
+/scripts/info/invalid_link.php
+http://youtube.com/watch?v=OWnf9EHV1Vo
+http://youtube.com/watch?v=M0Uy0zaG298
+http://youtube.com/watch?v=IAOtQUZ6heY
+http://vk.com/video_ext.php?oid=207968750&id=166587333&hash=94583641669159db&hd=1
+http://youtube.com/watch?v=tkhnyDOYLSo
+http://youtube.com/watch?v=vbK8zyWuCO8
+http://youtube.com/watch?v=XlUqnNOAiPA
+http://youtube.com/watch?v=VYebEFPzV3c

@@ -1,0 +1,4 @@
+/scripts/info/ganaPuntos.php?ref=nopoints&e=802&mediaType=2
+http://mega.co.nz/#!H1h1gZRL!bx49TE2_JPElS_-efe6P-hOa8f0yfQGeaUCqHHNbPsU
+http://mega.co.nz/#!n4QlwAZZ!UjroD3-2IEH9pAUph7vJGxbz5-8F3suRuhD0fdanJYE
+/scripts/info/invalid_link.php

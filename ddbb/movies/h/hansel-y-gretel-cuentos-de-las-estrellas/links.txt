@@ -1,0 +1,14 @@
+/scripts/info/invalid_link.php
+http://youtube.com/watch?v=enXVIRCqAYY
+http://youtube.com/watch?v=TSrZDnBSH4Y
+http://youtube.com/watch?v=Sa94aUN6LAU
+http://youtube.com/watch?v=efyLnijCvEI
+http://youtube.com/watch?v=25xcDMs15pY
+http://youtube.com/watch?v=IN6yKoeaXKA
+http://youtube.com/watch?v=TOHtwccD5aA
+http://youtube.com/watch?v=7DCAoNMPv9w
+http://youtube.com/watch?v=o4yHaVzjbMU
+http://youtube.com/watch?v=bCGw1QV8_Iw
+http://youtube.com/watch?v=xl5wQFGdEzs
+http://youtube.com/watch?v=_x_7p2r8C4U
+http://youtube.com/watch?v=l-zVtREFpE8

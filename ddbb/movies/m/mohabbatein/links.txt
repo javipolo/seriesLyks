@@ -1,0 +1,6 @@
+/scripts/info/ganaPuntos.php?ref=nopoints&e=802&mediaType=2
+http://youtube.com/watch?v=MmFOlZxI4Is
+http://dailymotion.com/video/x10g8p_mohabbatein00002_music
+http://dailymotion.com/video/x10m40_mohabbatein00003_music
+/scripts/info/invalid_link.php
+http://dailymotion.com/video/x10m12_mohabbatein00004_music

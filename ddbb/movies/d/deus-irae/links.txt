@@ -1,0 +1,2 @@
+/scripts/info/invalid_link.php
+http://vk.com/video_ext.php?video145083867_162216051?hd=1&t=3m11s

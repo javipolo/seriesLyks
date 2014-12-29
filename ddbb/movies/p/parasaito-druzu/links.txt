@@ -1,0 +1,3 @@
+/scripts/info/invalid_link.php
+http://uploaded.to/file/qpb3myh5
+http://uploaded.to/file/u2i678kw

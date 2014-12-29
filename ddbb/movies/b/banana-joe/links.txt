@@ -1,0 +1,7 @@
+/scripts/info/ganaPuntos.php?ref=nopoints&e=802&mediaType=2
+http://tu.tv/videos/banana-joe
+/scripts/info/invalid_link.php
+http://youtube.com/watch?v=PxtyYxhV8MM
+http://firedrive.com/file/2E97BF5039954ED7
+http://firedrive.com/file/D920A5D0F283F6EF
+http://firedrive.com/file/2B5F29A17F79E887

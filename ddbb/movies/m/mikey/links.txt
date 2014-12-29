@@ -1,0 +1,4 @@
+/scripts/info/ganaPuntos.php?ref=nopoints&e=802&mediaType=2
+/scripts/info/invalid_link.php
+http://vk.com/video_ext.php?oid=187140468&id=170377683&hash=b7d4ec7d078964aa&hd=1
+http://www.vidspot.net/mns22d10493n

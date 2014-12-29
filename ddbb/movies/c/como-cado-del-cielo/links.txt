@@ -1,0 +1,3 @@
+/scripts/info/ganaPuntos.php?ref=nopoints&e=802&mediaType=2
+http://www.vidspot.net/4ht2x40bto0g
+/scripts/info/invalid_link.php

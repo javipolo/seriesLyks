@@ -1,0 +1,10 @@
+/scripts/info/ganaPuntos.php?ref=nopoints&e=802&mediaType=2
+http://youtube.com/watch?v=Ecivp8t3MdY
+/scripts/info/invalid_link.php
+http://youtube.com/watch?v=U3ul4LA3l5I
+http://vk.com/video_ext.php?oid=187363946&id=167862556&hash=239b14cd730cb32c&hd=1
+http://vk.com/video_ext.php?oid=187363946&id=167817427&hash=ff821cd4181d41f1
+http://vk.com/video_ext.php?oid=187363946&id=167827085&hash=ee57d8d6f95b7579&hd=1
+http://youtube.com/watch?v=_7oWZq_s_Sk
+http://youtube.com/watch?v=lT1zdTL-3SM
+http://vk.com/video_ext.php?oid=187363946&id=167834267&hash=3a10313a8f2ada5f&hd=1

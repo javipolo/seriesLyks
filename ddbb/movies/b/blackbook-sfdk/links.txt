@@ -1,0 +1,4 @@
+/scripts/info/ganaPuntos.php?ref=nopoints&e=802&mediaType=2
+/scripts/info/invalid_link.php
+http://mega.co.nz/#!ct8DBKID!AdYzzRJPIj9T016KKW1GC1Kh5isxb2kKdqA6eU6yvgI
+http://firedrive.com/file/342E1E242158D46D

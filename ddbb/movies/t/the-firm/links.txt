@@ -1,0 +1,7 @@
+/scripts/info/invalid_link.php
+http://youtube.com/watch?v=kgNQsmAy-es
+http://www.vidspot.net/89kj8j44ixek
+http://mediafire.com/download/y0z5lbs7bbaz8z1
+http://mediafire.com/download/h34iedqm3j4rhs6
+http://mediafire.com/download/n3ubeig1b7xfl0v
+http://mediafire.com/download/1xxdph2d9ay3a99

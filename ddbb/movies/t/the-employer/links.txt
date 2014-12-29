@@ -1,0 +1,3 @@
+/scripts/info/invalid_link.php
+http://vk.com/video_ext.php?oid=214447664&id=165306057&hash=67fa1c7e5bc08f71&hd=1
+http://www.nowvideo.eu/video/7d72ba49294da

@@ -1,0 +1,4 @@
+/scripts/info/invalid_link.php
+http://vk.com/video_ext.php?oid=207741185&id=166637716&hash=2def56321482868f
+http://streamcloud.eu/ybw15c8qpnvo
+http://vk.com/video_ext.php?oid=221955529&id=166684087&hash=15ee2a473526881a

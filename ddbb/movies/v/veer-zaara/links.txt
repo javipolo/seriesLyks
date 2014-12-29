@@ -1,0 +1,4 @@
+/scripts/info/invalid_link.php
+http://vk.com/video_ext.php?hash=2b39127cf6bb3012
+http://vk.com/video_ext.php?hash=972e293257ef3c2c
+http://dailymotion.com/video/x6w3al_veer-zaara-part-1_shortfilms

@@ -1,0 +1,10 @@
+/scripts/info/invalid_link.php
+http://vk.com/video_ext.php?oid=11566819&id=145102594&hash=8a522b3fb4f2b2d5
+http://firedrive.com/file/3LOT0HR6UPS00004
+http://firedrive.com/file/9TWWTN0FXPSS0WW
+http://firedrive.com/file/FCD7A77F9F36D4FB
+http://uploaded.to/file/91zzuhg3
+http://uploaded.to/file/6hg61s7y
+http://letitbit.net/download/91276.9f91297fe91aaad61adddbd10377/Im_not_There_DVD-Screener.avi.html
+http://letitbit.net/download/97157.9f91297fe91aaad61adddbd10377/Im.not.there.2009.DVDSCR.SPANiSH.XVID.avi.html
+http://letitbit.net/download/http://www.letitbit.net/download/97157.9f91297fe91aaad61adddbd10377/Im.not.there.2009.DVDSCR.SPANiSH.XVID.avi.html

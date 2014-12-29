@@ -1,0 +1,5 @@
+/scripts/info/invalid_link.php
+http://vk.com/video_ext.php?oid=214447664&id=165380194&hash=f0f145d3344ed520&hd=1
+http://vk.com/video_ext.php?oid=193619899&id=165456645&hash=be5ea7646cbcdbbe&hd=1
+http://firedrive.com/file/C9637AAE0D1289EB
+http://firedrive.com/file/99BD9FD45F4FB797

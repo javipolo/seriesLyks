@@ -1,0 +1,7 @@
+/scripts/info/invalid_link.php
+http://youtube.com/watch?v=OYyMpWGFTQk
+/scripts/info/ganaPuntos.php?ref=nopoints&e=802&mediaType=2
+http://youtube.com/watch?v=yguaQfFagE0
+http://turbobit.net/18rr39mej3s2.html
+http://bitshare.com/?f=mpu2xx41
+http://uploaded.to/file/4d9k02tb

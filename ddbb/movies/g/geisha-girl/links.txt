@@ -1,0 +1,7 @@
+/scripts/info/invalid_link.php
+http://youtube.com/watch?v=eYV0DZJ38Is
+http://youtube.com/watch?v=uP1BBw3IYco
+http://tu.tv/videos/geisha-girl-la-noche-tematica-5-1-08
+http://youtube.com/watch?v=5Jl3kE2ecSs
+/scripts/info/ganaPuntos.php?ref=nopoints&e=802&mediaType=2
+http://youtube.com/watch?v=wFQ8M-ZnG24

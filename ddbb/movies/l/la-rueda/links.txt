@@ -1,0 +1,6 @@
+/scripts/info/ganaPuntos.php?ref=nopoints&e=802&mediaType=2
+/scripts/info/invalid_link.php
+http://youtube.com/watch?v=l2ViW4lxmD0
+http://dailymotion.com/video/x17xnis_67-04gfgfun
+http://youtube.com/watch?v=jC_mTspD0SQ
+http://youtube.com/watch?v=JCuiCqWRvRU

@@ -1,0 +1,4 @@
+/scripts/info/ganaPuntos.php?ref=nopoints&e=802&mediaType=2
+http://youtube.com/watch?v=XftWrvTd5I0
+/scripts/info/invalid_link.php
+http://mediafire.com/download/h1hiebtgzjxkdoy/Gamera
