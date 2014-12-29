@@ -1,0 +1,6 @@
+/scripts/info/ganaPuntos.php?ref=nopoints&e=802&mediaType=5
+http://dailymotion.com/video/x27ah6r_ghost-adventures-s10e01-queen-mary_shortfilms
+/scripts/info/invalid_link.php
+http://youtube.com/watch?v=KCGb3-BjGn8
+http://dailymotion.com/video/x27aepa_ghost-adventures-s10e01-queen-mary_people
+http://youtube.com/watch?v=3e9bvyuNz5k

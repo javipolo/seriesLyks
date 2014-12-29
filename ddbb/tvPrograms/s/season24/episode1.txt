@@ -1,0 +1,4 @@
+/scripts/info/ganaPuntos.php?ref=nopoints&e=802&mediaType=5
+http://firedrive.com/file/DECE15302409F1F1#
+http://filefactory.com/file/c2950f9/n/Survivor.S24E01.480p.HDTV.x264-mSD.mkv
+/scripts/info/invalid_link.php

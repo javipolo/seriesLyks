@@ -1,0 +1,3 @@
+/scripts/info/invalid_link.php
+http://youtube.com/watch?v=t-vlhUbfXFU
+http://mediafire.com/download/v5gfrsw2o1nko1p
