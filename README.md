@@ -21,10 +21,10 @@ Asi que el aviso queda dejado. Es una copia parcial.
 Porqué
 ======
 
-Porque quería conocer la infraestructura de series.ly
-Porque tenía curiosidad por hacer un proceso de "ingeniería inversa".
-Porque hacerlo contrarreloj era un reto.
-Porque la comunidad merecía tomar de vuelta el trabajo aportado a la comunidad
++ Porque quería conocer la infraestructura de series.ly
++ Porque tenía curiosidad por hacer un proceso de "ingeniería inversa".
++ Porque hacerlo contrarreloj era un reto.
++ Porque la comunidad merecía tomar de vuelta el trabajo aportado a la comunidad
 
 
 Cuando
@@ -52,6 +52,7 @@ Para qué
 ========
 
 Desde el desconocimiento de no ser miembro activo de ninguna comunidad de enlaces el instinto me decía que podría haber muchos links interesantes alojados en series.ly que quedarían huérfanos tras la retirada inminente de la visibilidad pública en la web.
+
 De alguna forma, aunque fuese de forma torpe y parcial, la comunidad se merecía obtener una copia de estos links y decidir libremente qué hacer a partir del 1 de Enero, una vez que entre en vigor la mentada ley en España.
 
 No es un repositorio pensado para usuarios, pero si es tu caso y aún así tienes curiosidad, mas adelante puedes encontrar información sobre cómo hacer uso del mismo.
@@ -61,9 +62,11 @@ Desarrolladores
 ===============
 
 Si estás pensando en hacer uso de este repositorio, quizás quieras mirar en los siguientes enlaces:
-http://www.imdb.com/interfaces
-http://www.omdbapi.com/
++ http://www.imdb.com/interfaces
++ http://www.omdbapi.com/
+
 Hay más, pero la idea general es que en todo programa/serie/película/documental hay una id externa a imdb que puede ser utilizada para obtener información más completa y actualizada en otras bases de datos.
+
 Dependiendo de la tecnología que uses, no será muy complicado construir un ORM para volcar todos los ficheros en una bbdd relacional. Yo, personalmente por falta de tiempo, no entra entre mis planes.
 
 
@@ -71,11 +74,14 @@ Usuarios
 ========
 
 Si eres usuario de Unix ( MacOs o GNU/Linux ) y no te da miedo la terminal solo necesitas abrir una terminal e introducir:
+
 <code>
 	git clone https://github.com/Viperey/seriesLyks
 </code>
+
 Si eres usuario de Windows y tienes git instalado en el sistema, no necesitas mucho más.
 Si eres usuario de Mac o Windows y tienes conocimientos limitados en materia, puedes instalar un cliente para hacer una copia del repositorio y a partir de ahí ver la base de datos directamente en tu ordenador.
+
 Para ello puedes usar SourceTree: http://www.sourcetreeapp.com/ y seguir el siguiente link: https://answers.atlassian.com/questions/58249/how-to-clone-in-sourcetree
 
 
