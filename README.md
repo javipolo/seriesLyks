@@ -38,14 +38,14 @@ Cómo
 
 Si miras en dev/ verás que con mucho bash scripting, algo de conocimiento http y una pizca de python.
 A nivel técnico el proceso era el siguiente:
-+4 categorías (series, programas de televisión, películas y documentales).
-+X páginas por categoría a unos 50 elementos por página.
++ 4 categorías (series, programas de televisión, películas y documentales).
++ X páginas por categoría a unos 50 elementos por página.
 +Las cateǵoría de documentales y película no tenían mayor anidación. Series y programas de televisión se anidaban en temporadas y episodios.
-+Para cada episodio (o película o documental) hay que hacer una petición a la api pública de la web, obteniendo una relación de links con cierta información y una id interna.
-+Con la id interna y una llamada a un .php se accedía al link externo (99% de los casos)
-+La información del link de salida estaba contenido en la cabecera location del http de retorno, forzando el servidor a una redirección casi invisible a través de un 302.
-+El resto del código busca prevenir de fallos de servidor (códigos 5xx) debido a las reiteradas caídas del servicio.
-+Por último el ćodigo estaba pensado para tener la capacidad de empezar donde se dejó, aunque debido a las limitaciones del sistema de fichero de Unix, a partir de 80.000 ficheros las salidas eran erróneas y cascaba.
++ Para cada episodio (o película o documental) hay que hacer una petición a la api pública de la web, obteniendo una relación de links con cierta información y una id interna.
++ Con la id interna y una llamada a un .php se accedía al link externo (99% de los casos)
++ La información del link de salida estaba contenido en la cabecera location del http de retorno, forzando el servidor a una redirección casi invisible a través de un 302.
++ El resto del código busca prevenir de fallos de servidor (códigos 5xx) debido a las reiteradas caídas del servicio.
++ Por último el ćodigo estaba pensado para tener la capacidad de empezar donde se dejó, aunque debido a las limitaciones del sistema de fichero de Unix, a partir de 80.000 ficheros las salidas eran erróneas y cascaba.
 
 
 Para qué
