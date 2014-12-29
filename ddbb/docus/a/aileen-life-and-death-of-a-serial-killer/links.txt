@@ -1,0 +1,11 @@
+/scripts/info/invalid_link.php
+http://vk.com/video_ext.php?oid=187363946&id=168010316&hash=069dce9729d879fc&hd=1
+http://youtube.com/watch?v=2Ks2NgxX5Vo
+http://youtube.com/watch?v=mHV_3bz6cWg
+http://youtube.com/watch?v=VVNRpefZzWQ
+http://youtube.com/watch?v=jyZwFkJPmhg
+http://youtube.com/watch?v=wuVh8y-MYoI
+http://youtube.com/watch?v=trty0OObpK8
+http://youtube.com/watch?v=2X1BO2CB7BQ
+http://youtube.com/watch?v=gkTKRWZuNnY
+http://youtube.com/watch?v=nEi-qeUBBmw
