@@ -1,0 +1,4 @@
+/scripts/info/ganaPuntos.php?ref=nopoints&e=802&mediaType=3
+/scripts/info/invalid_link.php
+http://vimeo.com/14259407
+http://youtube.com/watch?v=BwZ6Z5XeP5w

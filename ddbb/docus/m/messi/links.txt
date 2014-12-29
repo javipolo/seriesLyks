@@ -1,0 +1,1 @@
+/scripts/info/ganaPuntos.php?ref=nopoints&e=802&mediaType=3

@@ -1,0 +1,6 @@
+/scripts/info/invalid_link.php
+http://youtube.com/watch?v=4Yef_kOmcGs
+http://vimeo.com/17845862
+http://youtube.com/watch?v=qO86FO1bs6g
+http://vimeo.com/32562665
+http://youtube.com/watch?v=DKA5dyBKzoo

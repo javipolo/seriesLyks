@@ -1,0 +1,2 @@
+/scripts/info/invalid_link.php
+http://mega.co.nz/#!RJgnjKIC!O4g0An98DpoChAA5V2cdrlrMemV4jAegXQjo9yHYT9E

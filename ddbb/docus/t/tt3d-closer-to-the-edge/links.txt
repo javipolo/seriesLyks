@@ -1,0 +1,9 @@
+/scripts/info/invalid_link.php
+http://vimeo.com/66147832
+http://firedrive.com/file/ACA53CCE55B7B915
+http://firedrive.com/file/A5FAB3E98334987D
+http://sockshare.com/file/3EDB1FC8FC76D609
+http://sockshare.com/file/295ABE6F97D91407
+/scripts/info/ganaPuntos.php?ref=nopoints&e=802&mediaType=3
+http://sockshare.com/file/DB779CA6F2E072E4
+http://sockshare.com/file/EF428E2C6D0AFD98
