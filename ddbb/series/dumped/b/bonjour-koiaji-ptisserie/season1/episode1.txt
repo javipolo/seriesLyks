@@ -1,0 +1,7 @@
+/scripts/info/invalid_link.php
+http://youtube.com/watch?v=NXnUroUrLMs
+http://streamcloud.eu/uslqm0s60n8n
+http://dailymotion.com/video/x27sbeo_bkp-01-es_shortfilms
+http://dailymotion.com/video/x27p9xd_bonjour1_shortfilms
+http://youtube.com/watch?v=ae2TuGdRqVM
+http://dailymotion.com/video/x27qq20_bon01v2_videogames

@@ -1,0 +1,3 @@
+/scripts/info/invalid_link.php
+http://youtube.com/watch?v=iW4Hjc0AlZo
+http://rapidgator.net/file/69316028/Highlander_-_3x05_-_Rite_Of_Passage.avi.html

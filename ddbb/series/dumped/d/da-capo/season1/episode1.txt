@@ -1,0 +1,6 @@
+/scripts/info/invalid_link.php
+http://youtube.com/watch?v=TEdSNn1d2_g
+http://youtube.com/watch?v=4q26fDs6JmM
+http://vk.com/video_ext.php?oid=241127522&id=169568137&hash=383a92fca1c4b128&hd=1
+http://allmyvideos.net/w1zmoy4wq5km
+http://mediafire.com/download/z7sbp8sef1nazd0

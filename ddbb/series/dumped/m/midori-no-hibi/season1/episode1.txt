@@ -1,0 +1,10 @@
+/scripts/info/invalid_link.php
+http://youtube.com/watch?v=mtkfO4Qfq8g
+http://vk.com/video_ext.php?oid=171938687&id=168224864&hash=c6fa2e3e5d273655&hd=2
+http://youtube.com/watch?v=PjKD5tLetZQ
+http://youtube.com/watch?v=65R7DrgehEE
+http://mega.co.nz/#!PI4SiKSI!AGp94gB41hsrlmRwJjQ_-gCFFxYA5hKcKw00SyZ06Mk
+http://bitshare.com/?f=8gf5sg8o
+http://bitshare.com/?f=xdwf5a84
+http://uploaded.to/file/dbb330ls
+http://dfiles.eu/files/34u95935f

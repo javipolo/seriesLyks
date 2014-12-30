@@ -1,0 +1,4 @@
+/scripts/info/invalid_link.php
+http://youtube.com/watch?v=lGxNnUbzi4Y
+http://youtube.com/watch?v=yGEiooialRU
+http://firedrive.com/file/34B63FD2108CDDEE

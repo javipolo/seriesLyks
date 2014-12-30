@@ -1,0 +1,3 @@
+/scripts/info/invalid_link.php
+http://mega.co.nz/#!pNEUlCyY!HDWh_EW1s6EwpgSoIs9OoUENFbMvaKEDD9qMHBDGLIM
+/scripts/info/invalid_link.php

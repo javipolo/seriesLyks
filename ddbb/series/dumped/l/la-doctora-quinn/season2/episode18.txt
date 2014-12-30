@@ -1,0 +1,4 @@
+/scripts/info/invalid_link.php
+http://youtube.com/watch?v=A8WGTK2E1R8
+http://played.to/8nc8jn5vpwyg
+http://bitshare.com/?f=fwpz1ce4

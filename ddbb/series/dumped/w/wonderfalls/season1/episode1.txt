@@ -1,0 +1,7 @@
+/scripts/info/invalid_link.php
+http://youtube.com/watch?v=1EmJHZrMQk4
+http://youtube.com/watch?v=KDwPjsjLc48
+http://youtube.com/watch?v=lfzeG7wEVCk
+http://youtube.com/watch?v=4cYL0vILoWo
+http://youtube.com/watch?v=nxJxzb8UA5E
+http://rapidgator.net/file/9fab58d39f826691d9e6381fea9d4ad4

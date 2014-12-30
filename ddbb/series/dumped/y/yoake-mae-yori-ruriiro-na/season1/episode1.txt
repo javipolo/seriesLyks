@@ -1,0 +1,2 @@
+/scripts/info/ganaPuntos.php?ref=nopoints&e=802&mediaType=5
+http://mediafire.com/download/tagoj4774e8uozh

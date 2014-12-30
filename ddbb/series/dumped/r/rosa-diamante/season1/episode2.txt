@@ -1,0 +1,3 @@
+/scripts/info/ganaPuntos.php?ref=nopoints&e=802&mediaType=5
+/scripts/info/invalid_link.php
+http://dailymotion.com/video/xs9a2z_rosa-diamante-cap-2_shortfilms#.UN48P-T8Ibo

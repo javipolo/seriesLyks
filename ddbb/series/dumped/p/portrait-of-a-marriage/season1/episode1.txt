@@ -1,0 +1,7 @@
+/scripts/info/invalid_link.php
+http://youtube.com/watch?v=7kKqckScDZY
+http://youtube.com/watch?v=64sbGu5oUaM
+http://youtube.com/watch?v=khL_Y5ZO3Mc
+http://youtube.com/watch?v=jMy73x6V-tE
+http://youtube.com/watch?v=NeaMPR0uBCo
+http://vk.com/video_ext.php?oid=187363946&id=169181079&hash=5b264984ccd3fd4b&hd=1

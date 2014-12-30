@@ -1,0 +1,4 @@
+/scripts/info/invalid_link.php
+http://youtube.com/watch?v=Oy04yPzhQ-0
+http://youtube.com/watch?v=LOlOyvzkb2Q
+http://streamcloud.eu/nv4m7vl0s3ot

@@ -1,0 +1,4 @@
+/scripts/info/ganaPuntos.php?ref=nopoints&e=802&mediaType=5
+http://youtube.com/watch?v=Q0gBS4Bh_QM
+/scripts/info/invalid_link.php
+http://youtube.com/watch?v=2G73Gx-0Bbs

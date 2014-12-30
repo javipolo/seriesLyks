@@ -1,0 +1,7 @@
+/scripts/info/invalid_link.php
+http://vk.com/video_ext.php?oid=241127522&id=168095696&hash=7b88c457e2a6314f&hd=2
+http://youtube.com/watch?v=kC2MY8EgS7s
+http://youtube.com/watch?v=ZPlbNiw7y_w
+http://youtube.com/watch?v=-3pN2gc0Fmc
+http://youtube.com/watch?v=xh6ZLEv0RTA
+http://mega.co.nz/#!4Rt1VSJB!BGcp0fiDriKXXVB5oAlR87B9QiSwCU4CX8dhFvLtrjQ

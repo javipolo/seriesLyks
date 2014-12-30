@@ -1,0 +1,7 @@
+/scripts/info/invalid_link.php
+http://youtube.com/watch?v=GdtS6bzwkPw
+http://youtube.com/watch?v=7V0soTWtQF8
+http://youtube.com/watch?v=CNlaemgY6es
+http://youtube.com/watch?v=a_zhGb9B5B0
+http://veoh.com/watch/v6565651h7sfXfRs
+http://www.videoweed.es/file/63e24f45546c3

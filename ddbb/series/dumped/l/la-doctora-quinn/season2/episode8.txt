@@ -1,0 +1,3 @@
+/scripts/info/invalid_link.php
+http://youtube.com/watch?v=mHGV5Tfoq4I
+http://bitshare.com/?f=xxt53x1q

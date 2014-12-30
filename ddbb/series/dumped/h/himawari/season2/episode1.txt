@@ -1,0 +1,6 @@
+/scripts/info/invalid_link.php
+http://vk.com/video_ext.php?hash=e51a0b300ebae124
+/scripts/info/invalid_link.php
+http://www.novamov.com/video/1g40n1s4wre76
+http://www.nowvideo.eu/video/fb83itgi2dw8s
+http://firedrive.com/file/295B3B99CB96057F

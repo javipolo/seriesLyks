@@ -1,0 +1,3 @@
+/scripts/info/ganaPuntos.php?ref=nopoints&e=802&mediaType=5
+http://vk.com/video_ext.php?oid=221728642&id=166970036&hash=23ab687500574a56&hd=2
+/scripts/info/invalid_link.php

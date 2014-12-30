@@ -1,0 +1,7 @@
+/scripts/info/invalid_link.php
+http://youtube.com/watch?v=ch6j_PLXtRE
+http://vk.com/video_ext.php?oid=167005768&id=169730229&hash=ae7feaf5aba03d8f&hd=2
+http://mega.co.nz/#!fEAH3K5Q!RBZ1EX6TBa_xOkjhttLnbW61XVAbb66yzIlHVavd3ds
+http://mediafire.com/download/uqdjp7e59rdsf3a
+http://dfiles.eu/files/zyycfda9y?redirect
+http://dfiles.eu/files/kcb6xnjg3?redirect
